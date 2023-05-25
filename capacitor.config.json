@@ -1,0 +1,9 @@
+{
+  "appId": "com.example.app",
+  "appName": "capacitor-error",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "http",
+    "url": "http://localhost:5173/"
+  }
+}
